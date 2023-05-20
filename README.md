@@ -7,4 +7,4 @@ I will be hosting all the blogs and markdown content on my website soon.
 
 | Day | Topics | Blog Notebook | Tweet Link |
 | ---- | --- | --------- | ---------- |
-| 1    | What is ML? <br> Supervised and Unsupervised ML | [Notebook 1](https://example.com/blog1) | [Day 1](https://twitter.com/snowclipsed/status/1659999216561963008?s=20) |
+| 1    | What is ML? <br> Supervised and Unsupervised ML | [Notebook 1]([https://example.com/blog1](https://github.com/snowclipsed/100daysofml/blob/main/Day%201/Day%201.ipynb)) | [Day 1](https://twitter.com/snowclipsed/status/1659999216561963008?s=20) |
