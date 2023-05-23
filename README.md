@@ -3,7 +3,7 @@
 
 Hey there, this repository is made in an effort to track my contributions towards the *#100daysofml* challenge!
 
-I will be hosting all the blogs and markdown content on my website soon.
+I will be hosting all the blogs and markdown content on my website soon. Here's a table with my entire progress!
 
 | Day | Topics | Blog Notebook | Tweet Link |
 | ---- | --- | --------- | ---------- |
