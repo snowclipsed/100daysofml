@@ -5,9 +5,12 @@
 
 Hey there, this repository is made in an effort to track my contributions towards the [*#100daysofml*](https://twitter.com/search?q=%23100daysofMLCode&src=hashtag_click) challenge!
 
-It might take some time to format the notebooks and upload them, but I will be updating my progress on [twitter](https://twitter.com/snowclipsed) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/snowclipsed.svg?style=social&label=Follow%20%40snowclipsed)](https://twitter.com/snowclipsed)
+It might take some time to format the notebooks and upload them, but I will be updating my progress on [twitter](https://twitter.com/snowclipsed) <br> 
 
 I will be hosting all the blogs and markdown content on my website soon. Here's a table with my entire progress!
+
+<br> [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/snowclipsed.svg?style=social&label=Follow%20%40snowclipsed)](https://twitter.com/snowclipsed)
+
 
 | Day | Topics | Blog Notebook | Tweet Link |
 | ---- | --- | --------- | ---------- |
