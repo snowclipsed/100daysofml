@@ -1,6 +1,6 @@
 # 100 Days of Machine Learning
 
-⭐ Star this repo to follow my journey and motivate me! ⭐
+<h3 align = 'center'>⭐ Star this repo if you wanna follow my journey!⭐</h3>
 
 
 Hey there, this repository is made in an effort to track my contributions towards the [*#100daysofml*](https://twitter.com/search?q=%23100daysofMLCode&src=hashtag_click) challenge!
