@@ -18,9 +18,9 @@ I will be hosting all the blogs and markdown content on my website soon. Here's 
 | 5    | Multiple LR, SVM, Naive Bayes | [Notebook 5](https://github.com/snowclipsed/100daysofml/blob/main/Day%205/Day%205.ipynb) | [Day 5](https://twitter.com/snowclipsed/status/1661431959242047488?s=20) |
 | 6    | Feature Selection basics, accuracy, precision, recall, F1-score,precision vs recall tradeoff | [Notebook 6]() | [Day 6](https://twitter.com/snowclipsed/status/1661803117040766976?s=20) |
 | 7    | SVM soft margin and Kernel Trick, Logistic Regression theory and types, KNNs theory | [Notebook 7]() | [Day 7](https://twitter.com/snowclipsed/status/1662168795123965953?s=20) |
-| 8    | Decision Trees, Feature Imputation, Feature Encoding | [Notebook 8]() | [Day 8](https://twitter.com/snowclipsed/status/1662536960781717504?s=20) |
-| 9    | Decision Trees contd. , Bagging and Boosting, AdaBoost, Random Forests |  [Notebook 9]() | [Day 9](https://twitter.com/snowclipsed/status/1662899550363987969?s=20) |
-| 10    | Decision Trees Implemented , Feature Engineering basics, Feature Normalization |  [Notebook 10]() | [Day 10](https://twitter.com/snowclipsed/status/1663256992432132096?s=20) |
+| 8    | Decision Trees, Feature Imputation, Feature Encoding | [Notebook 8a](https://github.com/snowclipsed/100daysofml/blob/main/Day%208/Day%208%20Decision%20Trees.ipynb) | [Day 8](https://twitter.com/snowclipsed/status/1662536960781717504?s=20) |
+| 9    | Decision Trees contd. , Bagging and Boosting, AdaBoost, Random Forests |  [Notebook 9a](https://github.com/snowclipsed/100daysofml/blob/main/Day%209/Day%209%20Decision%20Trees.ipynb) | [Day 9](https://twitter.com/snowclipsed/status/1662899550363987969?s=20) |
+| 10    | Decision Trees Implemented , Feature Engineering basics, Feature Normalization |  [Notebook 10a](https://github.com/snowclipsed/100daysofml/tree/main/Day%2010) | [Day 10](https://twitter.com/snowclipsed/status/1663256992432132096?s=20) |
 | 11    | Revision of Concepts, Feature Engineering Contd. |  [Notebook 11]() | [Day 11](https://twitter.com/snowclipsed/status/1663615985461624832?s=20) |
 | 12    | More Decision Tree Implementation, Random Forests basics, XGBoost Basics|  [Notebook 12]() | [Day 12](https://twitter.com/snowclipsed/status/1663987548916711425?s=20) |
 | 13    | Revision Day, XGBoost Implemented |  [Notebook 13]() | [Day 13](https://twitter.com/snowclipsed/status/1664343056160817153?s=20) |
